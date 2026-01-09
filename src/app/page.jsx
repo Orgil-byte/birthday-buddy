@@ -3,11 +3,11 @@ import { useState } from "react";
 
 const birthdaysData = [
   { id: 1, name: "Orgil", age: 18, color: "bg-sky-500" },
-  { id: 2, name: "Orgil", age: 18, color: "bg-sky-500" },
-  { id: 3, name: "Orgil", age: 18, color: "bg-sky-500" },
-  { id: 4, name: "Orgil", age: 18, color: "bg-sky-500" },
-  { id: 5, name: "Orgil", age: 18, color: "bg-sky-500" },
-  { id: 6, name: "Orgil", age: 18, color: "bg-sky-500" },
+  { id: 2, name: "Michael", age: 29, color: "bg-red-300" },
+  { id: 3, name: "Misheel", age: 25, color: "bg-gray-700" },
+  { id: 4, name: "Sofia", age: 49, color: "bg-blue-400" },
+  { id: 5, name: "George", age: 78, color: "bg-purple-800" },
+  { id: 6, name: "Delgermaa", age: 32, color: "bg-yellow-300" },
 ];
 
 export default function Page() {
